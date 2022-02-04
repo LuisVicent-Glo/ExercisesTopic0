@@ -20,7 +20,11 @@ public class Main {
 
 
         do {
-            System.out.println("Digite uno para crear una aplicacion de sistema o 2 para una aplicacion o 4 para salir");
+            System.out.println("Bienvenido, a continuacion veras el menu donde podras hacer uso de la memoria");
+            System.out.println("1. Para crear un nuevo proceso de sistema puede oprimir la tecla \"c\"+s");
+            System.out.println("2. Para crear un nuevo proceso de aplicacion puede oprimir la tecla \"c\"+a");
+            System.out.println("3. Para eliminar un proceso de la memoria puede oprimir la tecla \"d\"+ mas el id del proceso");
+            System.out.println("4.Para salir solo presione la tecla e");
             String decition = sc.nextLine();
             String[] substract = decition.split("");
 
@@ -49,7 +53,7 @@ public class Main {
                 memory.delete(idDelete);
                 memory.compact();
             }
-            else if(decition == "exit"){
+            else if(decition == "e"){
                 exit = false;
                 break;
             }
