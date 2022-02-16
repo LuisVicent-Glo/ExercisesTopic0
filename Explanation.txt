@@ -1,0 +1,11 @@
+Hello, for this challenge I made a program that allows us to use a model to
+create printers and create beans for each printer to instantiate
+the printers created and for use in a repository
+which create the logic by saving those printers and using them in the 
+executor class
+
+in the future it will give problems because I tried to use the DI pattern
+but when I create the beans is where I have the problem
+
+It's possible to add more printer options but at the moment those
+aggregations are manual
