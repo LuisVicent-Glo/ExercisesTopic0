@@ -26,7 +26,7 @@ For this week the idea is learn about the differents Dessign patterns and the ma
 2. [Builder](https://sourcemaking.com/design_patterns/builder)
 3. [Factory](https://sourcemaking.com/design_patterns/factory_method)
 4. [Abstract Factory](https://sourcemaking.com/design_patterns/abstract_factory)
-5. [Decorator]([Decorator](https://sourcemaking.com/design_patterns/decorator)
+5. [Decorator](https://sourcemaking.com/design_patterns/decorator)
 
 ### Other resources:
 
