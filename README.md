@@ -50,7 +50,9 @@ for this week the material was:
 ### Other resources:
 
 [Spring: The Big Picture](https://www.pluralsight.com/courses/spring-big-picture)
+
 [Spring Framework: Spring Fundamentals](https://www.pluralsight.com/courses/spring-framework-spring-fundamentals)
+
 [Spring Framework: Creating Your First Spring Boot Application](https://www.pluralsight.com/courses/creating-first-spring-boot-application)
 
 Link -> [Topic 2](https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/JavaGlobantSpring/src/main/java/com/javaglobant)
@@ -73,7 +75,9 @@ Material:
 ### Other resources
 
 [Using Lambda Expressions in Java Code](https://www.pluralsight.com/courses/lambda-expressions-java-code)
+
 [Collections](https://www.pluralsight.com/courses/java-collections-fundamentals)
+
 [Using Java Streams to Process and Analyze Data in Memory](https://www.pluralsight.com/courses/java-streams-process-analyze-data-memory)
 
 Link -> [Topic 3](https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/FunctionalProgramming/src/com/javaglobant)
