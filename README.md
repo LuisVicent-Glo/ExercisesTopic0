@@ -4,7 +4,7 @@ Hi, this is my repository where to load the exercises that I do :man_technologis
 This is a place where load exersises and activities that the instructors give us by learn different topic in the week
 to continue give to you links and material that I must to study in that determined week.
 
-## WEEK 1 
+## WEEK 1 :coffee:
 
 For this week the idea is re-examine the knowledge that we have about Java programming language and OOP(Object-Oriented Programming).
 
@@ -19,7 +19,7 @@ Java [tutorial](https://www.w3schools.com/java/default.asp)
 
 Link -> [Topic0](https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/JavaGlobant/src/com/luisvicent/javaglobant/topic0)
 
-## WEEK 2
+## WEEK 2 :hammer_and_wrench: :coffee:
 
 For this week the idea is learn about the differents Dessign patterns and the material in the academy is:
 1. [Singleton](https://sourcemaking.com/design_patterns/singleton)
@@ -36,7 +36,7 @@ Course Dessign Patterns [Creationals](https://www.pluralsight.com/courses/design
 
 Link -> [Topic1](https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/JavaGlobant/src/com/luisvicent/javaglobant/topic1)
 
-## WEEK 3 
+## WEEK 3  :leaves:
 
 This week was focus in the Framework Spring that is the most important in the Java platform,
 for this week the material was:
@@ -59,9 +59,9 @@ Link -> [Topic 2](https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/mai
 Link to Challenge > [Challenge_Spring](https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/JavaGlobantSpring/src/main/java/com/javaglobant/challengetopic2)
 
 
-## Week 4
+## Week 4  :coffee:
 
-This week is realtionated to Functional Programming that is a important paradigm of programming,
+This week is realted to Functional Programming that is a important paradigm of programming,
 Material:
 
 1. [Concepts, Advantages, Disadvantages, and Applications](https://hackr.io/blog/functional-programming)
@@ -81,3 +81,29 @@ Material:
 [Using Java Streams to Process and Analyze Data in Memory](https://www.pluralsight.com/courses/java-streams-process-analyze-data-memory)
 
 Link -> [Topic 3](https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/FunctionalProgramming/src/com/javaglobant)
+
+
+## Week 5 :whale: :passenger_ship:
+
+This week is related with the technology Docker that it's a beautiful tool for development and check our applications.
+The material for this week was:
+
+[Introduction to Docker](https://www.freecodecamp.org/news/docker-simplified-96639a35ff36/)
+
+[Docker 101 video](https://www.youtube.com/watch?v=iqqDU2crIEQ&t=30s)
+
+[Working with Containers and Images](https://examples.javacodegeeks.com/devops/docker/docker-hello-world-example/)
+
+[Hello Word with Docker](https://examples.javacodegeeks.com/devops/docker/docker-hello-world-example/)
+
+[run sql server with Docker](https://www.youtube.com/watch?v=TUWItrX7hmA)
+
+### Other resources
+
+[Getting Started with Docker](https://www.pluralsight.com/courses/getting-started-docker)
+
+[Building and Running Your First Docker App](https://www.pluralsight.com/courses/docker-building-running-first-app)
+
+[Developing SQL Server Databases with Docker](https://www.pluralsight.com/courses/sql-server-databases-docker-developing)
+
+Link -> [topic 4] (https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/Docker)
