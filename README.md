@@ -106,4 +106,4 @@ The material for this week was:
 
 [Developing SQL Server Databases with Docker](https://www.pluralsight.com/courses/sql-server-databases-docker-developing)
 
-Link -> [topic 4] (https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/Docker)
+Link -> [topic 4](https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/Docker)
