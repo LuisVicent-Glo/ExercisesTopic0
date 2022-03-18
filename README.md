@@ -133,4 +133,4 @@ The material for this week was:
 
 Link -> [SpringDataJPA](https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/SpringDataJPA)
 
-Link to challenge -> [Challenge Spring Data JPA]
+Link to challenge -> [Challenge Spring Data JPA](https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/SpringDataJPA/challenge)
