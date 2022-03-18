@@ -8,7 +8,7 @@ to continue give to you links and material that I must to study in that determin
 
 For this week the idea is re-examine the knowledge that we have about Java programming language and OOP(Object-Oriented Programming).
 
-The material associated for this week is:
+The material associated for this week was:
 1. [JVM](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html#t1s1)
 2. [Java Concepts](https://docs.oracle.com/javase/tutorial/java/concepts/)
 3. [Execises](https://www3.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html) and [other exercises](https://www.w3resource.com/java-exercises/basic/index.php)
@@ -107,3 +107,30 @@ The material for this week was:
 [Developing SQL Server Databases with Docker](https://www.pluralsight.com/courses/sql-server-databases-docker-developing)
 
 Link -> [topic 4](https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/Docker)
+
+
+## Week 6  :leaves::inbox_tray::outbox_tray::file_cabinet:
+
+This week is related with tool Spring Data JPA of Spring Framework, this is a powerful tool by to do interacting in a data base and simplify the process with the app.
+
+The material for this week was:
+
+[Introduction JPA](https://dzone.com/articles/introduction-to-jpa-architecture)
+
+[Persistence layer JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
+
+[Hibernate](https://www.baeldung.com/learn-jpa-hibernate)
+
+[Persistence JPA](https://www.oscarblancarteblog.com/tutoriales/java-persistence-api-jpa/)
+
+[Video](https://www.youtube.com/playlist?list=PL1A506B159E5BD13E)
+
+### Other resources
+
+[Spring Framework: Overview of Spring Data](https://www.pluralsight.com/courses/spring-framework-overview-spring-data)
+
+[Spring Framework: Spring Data JPA](https://www.pluralsight.com/courses/spring-data-jpa-getting-started)
+
+Link -> [SpringDataJPA](https://github.com/LuisVicent-Glo/GlobantJavaTraining/tree/main/SpringDataJPA)
+
+Link to challenge -> [Challenge Spring Data JPA]
